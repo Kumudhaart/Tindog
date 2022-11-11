@@ -1,0 +1,156 @@
+#title{
+  background-color:#ff4c68;
+}
+.container-fluid{
+  padding-top:25px;
+}
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size:3.5rem;
+  line-height:1.5;
+  font-weight:900;
+  color:white;
+
+}
+body{
+  font-family:'Montserrat', sans-serif;
+
+}
+section{
+  text-align:left;
+}
+nav{
+  background-color:#ff4c68;
+}
+.container{
+  padding-top:50px;
+  padding-left:0;
+  margin-left:9%;
+}
+.btn{
+  margin-right:20px;
+  margin-top:20px;
+  text-align: center;
+
+}
+
+.img{
+  width:50%;
+  position:absolute;
+  right:30%;
+  margin-top:30px;
+
+}
+.navbar-nav{
+  margin-left:auto;
+}
+.title1{
+  padding-top:10%;
+}
+.container-fluid
+{
+  padding:10% 10% 3% 10%;
+
+}
+/* features */
+h3{
+  font-weight:bold;
+}
+#features {
+  padding:7% 15%;
+  background-color: white;
+  position:relative;
+  z-index:1;
+}
+
+.f1,.f2,.f3{
+  text-align:center;
+  padding:5%;
+}
+.i1,.i2,.i3{
+  width:50%;
+  height:50%;
+  color:#ef8172;
+}
+.i1:hover{
+  color:#ff4c68;
+}
+.i2:hover{
+  color:#ff4c68;
+}
+.i3:hover{
+  color:#ff4c68;
+}
+/* testimonials */
+#testimonials{
+  padding-left:15%;
+  padding-bottom:5%;
+  padding-right:15%;
+  padding-top:10%;
+  text-align:center;
+  background-color:#ef8172;
+  color:white;
+}
+h2{
+  font-size:3rem;
+  font-weight:900;
+}
+.testimonial-image{
+  width:10%;
+  border-radius:100%;
+  margin:30px;
+}
+.carousel-item{
+  padding:7% 15%;
+}
+/*press*/
+#press{
+  background-color:#ef8172;
+  text-align:center;
+  padding-bottom:5%;
+}
+.press-img{
+  width:15%;
+  margin:20px;
+}
+/* pricing */
+#pricing{
+  padding:100px;
+  text-align:center;
+  padding-bottom:30px;
+}
+.price-col{
+  padding:3% 2%;
+}
+/* media query */
+@media (max-width:992px){
+  .img{
+    position:static;
+  }
+  .css{
+    padding-left:30%;
+  }
+  }
+  /* footer above */
+
+#cta{
+  text-align:center;
+  background-color:#ff4c68;
+  height:300px;
+  padding-top:95px;
+}
+.ft{
+  color:#ffff;
+  width:500px;
+  margin-left:500px;
+}
+/* footer */
+#footer{
+  height:100px;
+  text-align:center;
+  padding-top:60px;
+}
+i{
+  margin:5px;
+}
